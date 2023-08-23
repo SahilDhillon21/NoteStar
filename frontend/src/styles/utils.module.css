@@ -1,0 +1,16 @@
+.flexCenter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+}
+
+.blockCenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.width100{
+    width: 100%;
+}
